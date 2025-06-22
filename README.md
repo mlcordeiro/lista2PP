@@ -1,1 +1,1 @@
-# lista2PP
+# Lista 2 da matéria de Princípios de Programação
