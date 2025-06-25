@@ -7,7 +7,7 @@ from datetime import datetime
 class AppToDo:
     def __init__(self, root):
         self.root = root
-        self.root.title("Lista de Tarefas")
+        self.root.title("To Do List")
         self.root.geometry("550x500")
         self.tarefas = []
         self.setup_ui()
